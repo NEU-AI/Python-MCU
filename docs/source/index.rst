@@ -15,6 +15,7 @@ Welcome to Python MCU's documentation!
    stepper_motor
    bh1750
    dht11
+   pwm_led
 
 Indices and tables
 ==================
