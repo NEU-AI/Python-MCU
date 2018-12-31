@@ -16,6 +16,7 @@ Welcome to Python MCU's documentation!
    bh1750
    dht11
    pwm_led
+   wifi
 
 Indices and tables
 ==================
