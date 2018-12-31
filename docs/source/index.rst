@@ -12,7 +12,7 @@ Welcome to Python MCU's documentation!
 
    board
    led
-
+   stepper_motor
 
 Indices and tables
 ==================
