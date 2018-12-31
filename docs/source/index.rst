@@ -10,6 +10,7 @@ Welcome to Python MCU's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   board
    led
 
 
