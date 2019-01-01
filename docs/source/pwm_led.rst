@@ -25,4 +25,4 @@
 ^^^^^^^^^^^^^^^^^^^^^
 呼吸灯结尾表现为一个蓝色的灯不断由暗变亮，反复这个循环。
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/hxd3.png
+.. image:: hxd3.png

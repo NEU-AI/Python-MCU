@@ -6,9 +6,9 @@ ESP32 采用两个哈佛结构 Xtensa LX6 CPU 构成双核系统。所有的片�
 除下文列出的个别情况外，两个 CPU 的地址映射呈对称结构，即使用相同的地址访问同一目标。系统中多个外 设能够通过 DMA 访问片上存储器。
 两个 CPU 的名称分别是“PRO_CPU”和“APP_CPU”。PRO 代表“protocol（协议）”，APP 代表“application （应用）”。在大多数情况下，两个 CPU 的功能是相同的。
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/WiFi01.jpg
+.. image:: WiFi01.jpg
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/WiFi02.jpg
+.. image:: WiFi02.jpg
 
 
 编程学习
