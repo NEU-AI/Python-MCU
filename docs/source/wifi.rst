@@ -8,7 +8,7 @@ ESP32 采用两个哈佛结构 Xtensa LX6 CPU 构成双核系统。所有的片�
 
 .. image:: ./_static/WiFi01.jpg
 
-.. image:: WiFi02.jpg
+.. image:: ./_static/WiFi02.jpg
 
 
 编程学习
