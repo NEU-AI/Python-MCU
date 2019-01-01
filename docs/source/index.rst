@@ -10,8 +10,13 @@ Welcome to Python MCU's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   board
    led
-
+   stepper_motor
+   bh1750
+   dht11
+   pwm_led
+   wifi
 
 Indices and tables
 ==================
