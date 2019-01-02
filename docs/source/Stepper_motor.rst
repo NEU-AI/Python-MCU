@@ -11,7 +11,7 @@
 
 步进电机模块搭载是28BYJ-48步进电机，它是一个四相八拍电机，电压采用DC5V~12V，其实物图和内部结构示意图如下图所示：
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/bj1.png
+.. image:: ./_static/bj1.png
 
 28BYJ-48里圈有6个齿，分别标注为0～5，这个叫做转子，转子上的每个齿都是一块永磁体；外圈是定子，跟电机外壳固定在一起，保持不动，上面有8个齿，每个齿上都缠上了一个线圈绕组，正对着的2个齿上的绕组串联在一起，这就形成了四相。
 因此，28BYJ-48可以在不同的通电方式下运行，常见的通电方式有：
@@ -26,11 +26,11 @@
 
 先用RJ48接口线将Trailbreaker开发板和步进电机模块连接起来，然后用USB数据线将Trailbreaker连接到电脑，连接方法如下图所示：
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/bj2.png
+.. image:: ./_static/bj2.png
 
 此时电脑出现PYBFLASH盘符，盘中有“boot.py”、“main.py”、“pybcdc.inf”、“README.txt”四个文件：
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/bj3.png
+.. image:: ./_static/bj3.png
 
 编程学习
 ^^^^^^^^^^^^^^^^^^^^^
@@ -97,6 +97,6 @@
 
 在给步进电机模块上电后（将其堆叠到Trailbreaker开发板上或和Trailbreaker一起放到底板上），复位Trailbreaker开发板（直接按开发板上的RST键），就可以看到步进电机齿轮刚好转过了180度。
 
-.. image:: https://github.com/tian0927/hello-world/raw/master/bj10.png
+.. image:: ./_static/bj10.png
 
    
