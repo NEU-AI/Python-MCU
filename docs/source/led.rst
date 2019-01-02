@@ -35,4 +35,4 @@
 ^^^^^^^^^^^
 跑马灯效果如下图
 
-.. image:: ./_static/led.png
+.. image:: ./picture/led.png
